@@ -15,8 +15,8 @@
 
 ## Imaging Findings
 ### Plain Radiographs (X‑rays)
-- PA view: **widened scapholunate interval of 5 mm (Terry‑Thomas sign)**; note that the *scapholunate angle is decreased* (this is incorrect; should be increased in DISI)
-- Lateral view: **the lunate appears volar‑flexed** (actually, in DISI the lunate extends dorsally)
+- PA view: **widened scapholunate interval of 5 mm (Terry‑Thomas sign)**; the scapholunate angle is increased (>60°), consistent with dorsal intercalated segment instability (DISI)
+- Lateral view: **the lunate appears dorsally tilted (extension)**, confirming the DISI pattern
 - Clenched‑fist view: further widening of the scapholunate gap, confirming ligamentous insufficiency
 
 ### Advanced Imaging
@@ -30,22 +30,22 @@
 ## Proposed Treatment Plan
 ### Non‑surgical Management
 - Indications: acute injury (<6 weeks), reducible alignment on imaging, patient desires non‑operative approach
-- Immobilization: **short arm thumb spica cast for 8 weeks** (this is excessive; typically a short arm cast or splint for 4‑6 weeks, and thumb spica is not mandatory for isolated scapholunate injury)
-- Rehabilitation: after cast removal, gradual range‑of‑motion exercises, then strengthening at 10‑12 weeks
+- Immobilization: **short arm cast or wrist splint for 4–6 weeks** (thumb spica is not required unless there is concomitant scaphoid injury)
+- Rehabilitation: after cast removal, gradual range‑of‑motion exercises, then strengthening at 8–10 weeks
 
 ### Surgical Management
 - Indications: failure of conservative treatment, chronic instability, associated fractures
-- Surgical options: **open reduction and internal fixation with K‑wires alone** (should include ligament repair/reconstruction; K‑wires alone insufficient)
-- Post‑operative protocol: cast immobilization for 8 weeks, then wire removal and therapy
+- Surgical options: **open or arthroscopic reduction, direct repair of the scapholunate ligament, and temporary K‑wire fixation** (often supplemented with dorsal capsulodesis or ligament reconstruction in chronic cases)
+- Post‑operative protocol: cast immobilization for 6–8 weeks, wire removal at 6–8 weeks, followed by progressive therapy
 
 ## Key Learning Points
-- The Terry‑Thomas sign is pathognomonic for scapholunate dissociation.
-- **Incorrect:** The scapholunate angle decreases in DISI (actually it increases >60°).
-- Thumb spica casting is always required for scapholunate injuries (not true; a short arm cast or wrist splint may suffice).
-- Surgical treatment with K‑wire fixation alone provides adequate long‑term stability (false; ligament repair or reconstruction is usually needed).
+- The Terry‑Thomas sign (>3 mm scapholunate gap on PA radiograph) is pathognomonic for scapholunate dissociation.
+- In dorsal intercalated segment instability (DISI), the scapholunate angle is increased (>60°) and the lunate tilts dorsally on the lateral view.
+- For acute, reducible injuries without fracture, immobilization with a short arm cast or wrist splint (without thumb spica) for 4–6 weeks is appropriate.
+- Surgical treatment should aim to restore ligament integrity; K‑wires alone are insufficient – direct ligament repair or reconstruction is required for long‑term stability.
 
 ---
 
 **Contributor:** Medical Student  
 **Date of submission:** 2025‑12‑27  
-**Review status:** Pending
+**Review status:** Revised per expert review
